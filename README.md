@@ -1,0 +1,1 @@
+This project is a simple, responsive travel landing page created using HTML, CSS, and JavaScript. It includes a navigation bar for easy access to different sections: Home, About, Blog, Gallery, and Contact. The page features a clean and modern design with a header, footer, and a hero section to showcase the travel site's main content.
